@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Created this resource directory "values-es" and this "strings.xml" files for Spanish
+language support.
+Training never told me, but I assume it will know when the OS is set to a certain language.
+To learn how to reference these String Resources references
+https://developer.android.com/training/basics/supporting-devices/languages.html
+-->
+<resources>
+    <string name="title">Mi Aplicación</string>
+    <string name="hello_world">Hola Mundo!</string>
+</resources>
